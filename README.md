@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+I'm a junior student majoring in Computer Science at Chulalongkorn Univeristy in search of a front-end developer internship.✨
 <!--
-**firstneverrest/firstneverrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**firstneverrest/firstneverrest** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
