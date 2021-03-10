@@ -30,6 +30,11 @@ Hi There, I'm a junior student majoring in Computer Science at Chulalongkorn Uni
 
 ## MY Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VS Code Emmet Abbreviations and Snippets make your life easier](https://medium.com/neverrest/vs-code-emmet-abbreviations-and-snippets-make-your-life-easier-875505550607?source=rss----2e11e31db100---4)
+- [[Prolog] List in Prolog](https://medium.com/neverrest/prolog-list-in-prolog-dbca1d203f73?source=rss----2e11e31db100---4)
+- [[Prolog] Arithmetic and Relational Operators สัญลักษณ์ทางคณิตศาสตร์พื้นฐานใน Prolog](https://medium.com/neverrest/prolog-arithmetic-and-relational-operators-%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99-prolog-d9341be0b097?source=rss----2e11e31db100---4)
+- [[Prolog] Structure and Equality](https://medium.com/neverrest/prolog-structure-and-equality-8d4636fcf45d?source=rss----2e11e31db100---4)
+- [[Prolog] การใช้ Variables ใน Prolog](https://medium.com/neverrest/prolog-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-variables-%E0%B9%83%E0%B8%99-prolog-152f5652f8a8?source=rss----2e11e31db100---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## My most used languages
