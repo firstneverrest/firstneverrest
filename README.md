@@ -2,8 +2,10 @@
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://neverrest.medium.com/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitsanupong-tangvasinkul-934648202/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/first.neverrest/)
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/firstnasa/)
 
 Hi There, I'm a junior student majoring in Computer Science at Chulalongkorn Univeristy in search of a front-end developer internship.✨ 
+[Visit my website](https://firstneverrest.github.io/Portfolio-Website/) 
 
 ## Skills 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
