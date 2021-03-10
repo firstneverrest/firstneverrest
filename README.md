@@ -28,7 +28,7 @@ Hi There, I'm a junior student majoring in Computer Science at Chulalongkorn Uni
 ![image](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-ASUS_TUFF_GAMING-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## MY Latest Blog Posts
+## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [VS Code Emmet Abbreviations and Snippets make your life easier](https://medium.com/neverrest/vs-code-emmet-abbreviations-and-snippets-make-your-life-easier-875505550607?source=rss----2e11e31db100---4)
 - [[Prolog] List in Prolog](https://medium.com/neverrest/prolog-list-in-prolog-dbca1d203f73?source=rss----2e11e31db100---4)
