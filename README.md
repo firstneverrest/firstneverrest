@@ -28,5 +28,9 @@ Hi There, I'm a junior student majoring in Computer Science at Chulalongkorn Uni
 ![image](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-ASUS_TUFF_GAMING-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## MY Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstneverrest)](https://github.com/anuraghazra/github-readme-stats)
