@@ -4,7 +4,10 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/first.neverrest/)
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/firstnasa/)
 
-Hi There, I'm a junior student majoring in Computer Science at Chulalongkorn Univeristy in search of a front-end developer internship.✨ 
+Hi There, I'm a junior student majoring in Computer Science at Chulalongkorn Univeristy in search of a front-end developer internship.
+My journey began in December 2020, when I was interested in web development. After that, I started learning about website from scratch. From basic HTML, CSS and JavaScript to React and other libraries and framework. I'm a fast learner which can understand fundamental of web development in only a few months. 
+
+After my web development skills are good enough, I have a plan to step up my game. First, I would like to be a front-end developer to understand how can I create a good UX/UI website. Next, I would like to be a back-end developer to understand how to manage API, manipulate database and cooperate with front-end developer. Finally, I would like to be a full-stack developer which make me have all skills about web development from beginning to end.✨ 
 [Visit my website](https://firstneverrest.github.io/Portfolio-Website/) 
 
 ## Skills 
@@ -32,6 +35,7 @@ Hi There, I'm a junior student majoring in Computer Science at Chulalongkorn Uni
 ![image](https://img.shields.io/badge/Windows-ASUS_TUFF_GAMING-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## My Latest Blog Posts
+These blog posts are came from [my Medium](https://medium.com/neverrest).
 <!-- BLOG-POST-LIST:START -->
 - [[Prolog] Practical Prolog Example with Five Houses Problem](https://medium.com/neverrest/prolog-practical-prolog-example-with-five-houses-problem-a76c8912ed79?source=rss----2e11e31db100---4)
 - [VS Code Emmet Abbreviations and Snippets make your life easier](https://medium.com/neverrest/vs-code-emmet-abbreviations-and-snippets-make-your-life-easier-875505550607?source=rss----2e11e31db100---4)
