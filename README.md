@@ -28,6 +28,8 @@ After my web development skills are good enough, I have a plan to step up my gam
 ![image](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![image](https://img.shields.io/badge/vim-342B029.svg?&style=for-the-badge&logoColor=white)
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## Workspace Spec
 [![image](https://img.shields.io/badge/AMD-Ryzen_7_3750H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/firstneverrest)
