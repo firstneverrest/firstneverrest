@@ -40,11 +40,11 @@ After my web development skills are good enough, I have a plan to step up my gam
 ## My Latest Blog Posts
 These blog posts are came from [my Medium](https://medium.com/neverrest).
 <!-- BLOG-POST-LIST:START -->
+- [[React] TypeScript with React — Form submission and Hooks](https://medium.com/neverrest/react-typescript-with-react-form-submission-and-hooks-5b6b858d87c8?source=rss----2e11e31db100---4)
 - [[TypeScript] Basic concept about how to use TypeScript in React](https://medium.com/neverrest/typescript-basic-concept-about-how-to-use-typescript-in-react-38affb828006?source=rss----2e11e31db100---4)
 - [[Prolog] Practical Prolog Example with Five Houses Problem](https://medium.com/neverrest/prolog-practical-prolog-example-with-five-houses-problem-a76c8912ed79?source=rss----2e11e31db100---4)
 - [VS Code Emmet Abbreviations and Snippets make your life easier](https://medium.com/neverrest/vs-code-emmet-abbreviations-and-snippets-make-your-life-easier-875505550607?source=rss----2e11e31db100---4)
 - [[Prolog] List in Prolog](https://medium.com/neverrest/prolog-list-in-prolog-dbca1d203f73?source=rss----2e11e31db100---4)
-- [[Prolog] Arithmetic and Relational Operators สัญลักษณ์ทางคณิตศาสตร์พื้นฐานใน Prolog](https://medium.com/neverrest/prolog-arithmetic-and-relational-operators-%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99-prolog-d9341be0b097?source=rss----2e11e31db100---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## My most used languages
