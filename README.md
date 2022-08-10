@@ -4,11 +4,7 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/first.neverrest/)
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/firstnasa/)
 
-Hello, I'm a senior student majoring in Computer Science at Chulalongkorn University.
-My journey began in December 2020, when I was interested in web development. After that, I started learning about website from scratch. From basic HTML, CSS and JavaScript to React and other libraries and framework. I'm a fast learner which can understand fundamental of web development in only a few months. 
-
-After my web development skills are good enough, I have a plan to step up my game. First, I would like to be a front-end developer to understand how can I create a good UX/UI website. Next, I would like to be a back-end developer to understand how to manage API, manipulate database and collaborate with front-end developer. Finally, I would like to be a full-stack developer which make me have all skills about web development from beginning to end.✨ 
-[Visit my website](https://firstneverrest.github.io/Portfolio-Website/) 
+Hello, I'm a meticulous Software Engineer with one year of frontend and backend experience and passion for web development. Implemented complex React application in collaborative environments to achieve high-quality products. Aspiring to combine strong leadership with web development skill as a Software Engineer.✨ [Visit my website](https://firstneverrest.github.io/Portfolio-Website/) 
 
 ## Skills 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
